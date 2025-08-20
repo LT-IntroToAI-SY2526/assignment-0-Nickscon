@@ -10,7 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-Git is a distributed version control system, while Github is a simplified version of Git which can do everything that it does except the GUI is easier to navigate and can also be used as a forum.
+Git is a distributed version control system, while Github is a simplified version of Git which can do everything that it does except the GUI is easier to navigate and can also be used as a forum. Git is the software that Github hosts on a forum where everything you do using Git is stored
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
