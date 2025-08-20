@@ -25,7 +25,7 @@ Repositorys are projects and they contain READMEs which are files that explain w
 
 **Link to your GitHub profile repository:** 
 
-(https://github.com/Nickscon?tab=repositories) 
+(https://github.com/Nickscon/Nickscon)
 ---
 
 ## Looking Ahead
